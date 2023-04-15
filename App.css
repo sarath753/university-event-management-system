@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-image: url('./img/bg.jpeg');
+  background-size: cover;
+  height: 100vh;
+}
+
+.youth{
+   font-size: 45px;
+   margin-right: 5px;
+   color: red;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.vibe{
+  font-size: 45px;
+  color:white;
+}
+
